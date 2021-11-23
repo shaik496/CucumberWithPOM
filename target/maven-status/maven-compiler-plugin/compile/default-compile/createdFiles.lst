@@ -1,0 +1,4 @@
+com\page\orangehrm\LoginPage.class
+com\orangehrm\utilites\DriverFactory.class
+com\orangehrm\utilites\AppHookes.class
+com\orangehrm\utilites\Synchronization.class
