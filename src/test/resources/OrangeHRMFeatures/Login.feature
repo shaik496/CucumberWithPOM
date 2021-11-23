@@ -23,4 +23,5 @@ Feature: Login feature
     Given login into ORANGE Applicaiton
       | userName | password  |
       | Admin    | admin123  |
+      | Admin    | admin123  |
      
